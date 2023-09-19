@@ -1,22 +1,22 @@
 {
-	"movies": [
+	"Previous Experience": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Position": "Program Manager",
+			"Company": "SODO Business Improvement Area",
+			"Start date": "Jun 2022",
+			"End date": "June 2023"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Position": "Specialist/Team Leader",
+			"Company": "US Army Reserves",
+			"Start date": "Oct 2017",
+			"End date": "Oct 2023"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Position": "Founder/Host",
+			"Company": "Blank Perception Podcast",
+			"Start date": "Feb 2021",
+			"End date": "Present"
 		}
 	]
 }
